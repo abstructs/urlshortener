@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/polygoning/urlshortener/issues"
   },
-  "homepage": "https://github.com/polygoning/urlshortener#readme"
+  "homepage": "https://github.com/polygoning/urlshortener#readme",
+  "dependencies": {
+    "valid-url": "^1.0.9"
+  }
 }
